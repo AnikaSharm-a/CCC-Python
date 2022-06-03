@@ -1,4 +1,4 @@
-# CCC 2019 J2/S1 https://cemc.uwaterloo.ca/contests/computing/2019/stage%201/seniorEF.pdf
+# CCC 2019 J4/S1 https://cemc.uwaterloo.ca/contests/computing/2019/stage%201/seniorEF.pdf
 
 # initial numbers and positions
 TLnum = 1
